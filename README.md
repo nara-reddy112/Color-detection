@@ -6,5 +6,5 @@ A python script to detect colors in a real time environment.
 <li>OpenCV</li>
 <li>Python interpreter</li>
 <li>Numpy</li>
-<li>Camera</li>
+<li>Web Cam</li>
 </ol>
