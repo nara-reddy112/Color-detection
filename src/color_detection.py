@@ -5,6 +5,7 @@ import numpy as np
 
 # Webcamera no 0 is used to capture the frames 
 cap = cv2.VideoCapture(0) 
+#gnfnhfjfjmfm
 
 # This drives the program into an infinite loop. 
 while(1):    
